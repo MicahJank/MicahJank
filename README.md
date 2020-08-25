@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Micah ![Cartoon Image of Micah](https://ibb.co/GW9GKrn)
 
 <!--
 **MicahJank/MicahJank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
