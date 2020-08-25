@@ -1,7 +1,10 @@
 <div>
   <div align="center">
   <img width="300px" src=https://i.ibb.co/dPtXdHj/micah.png" >
-  <h1>Hi I'm Micah</h1>
+  <h1>Hi, I'm Micah</h1>
+  <p>I am a Software Engineer with a passion for creating high quality applications.</p>
+  <p>I really enjoy working with front end technologies like React to create scalable web applications but I also enjoy delving into backend work and creating API servers to integrate with my applications.</p>
+  <h4>If you wanna chat or collaborate on something, feel free to send me a message at <a href="micahjank@gmail.com">micahjank@gmail.com</a></h4>
   </div>
 </div>
 <!--
