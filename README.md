@@ -9,7 +9,7 @@ I am a Software Engineer with a passion for creating high quality applications.
 I really enjoy working with front end technologies like React to create scalable web applications but I also enjoy delving into backend work and creating API servers to integrate with my applications.
 
 
-### [<img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/micah-jank/) Connect with me on Linkedin
+### [<img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/micah-jank/) <a href="https://www.linkedin.com/in/micah-jank/">Connect with me on Linkedin</a>
 
 ### [<img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/twitter.svg" />](https://twitter.com/micahjanke) Follow me on Twitter
   
