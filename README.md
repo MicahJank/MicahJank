@@ -1,8 +1,3 @@
-<div>
-  <div align="center">
-  <img width="300px" src=https://i.ibb.co/2hp3cJK/micahpsd.png" >
-  </div>
-</div>
 
 # Hi, I'm Micah
 I am a Software Engineer with a passion for creating high quality applications.
